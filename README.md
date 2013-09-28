@@ -12,7 +12,7 @@ Service endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
-This is a test line!
+This is a test!
 
-This is the retest line!!!
+Testing for concurrency!
 
