@@ -10,7 +10,7 @@ $ nohup ./bin/dev.sh 0<&- &> /tmp/app.log &
 
 Service endpoint: http://localhost:8080/helloworld
 
-Admin: http://localhost:8081/
+Admin: http://localhost:8081
 
-This is a re concurrency test!!!
+Retest!!
 
